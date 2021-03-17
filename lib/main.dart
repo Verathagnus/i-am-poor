@@ -5,7 +5,7 @@ void main() => runApp(
         home: Scaffold(
             backgroundColor: Colors.blueGrey,
           appBar: AppBar(
-            backgroundColor: Colors.blueGrey[500],
+            backgroundColor: Colors.blueGrey[900],
             title: Text('I am Poor'),
           ),
           body: Center(
